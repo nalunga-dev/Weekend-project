@@ -145,7 +145,7 @@ body {
 }
 @media (max-width: 638px) {
   .main-section .second .second1 form {
-    width: 90%;
+    width: 100%;
     padding: 1rem;
   }
 }
